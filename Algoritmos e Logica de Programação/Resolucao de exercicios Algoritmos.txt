@@ -1,0 +1,100 @@
+Exercícios
+
+1 - Dados de Entrada = Codigo da Peça / Valor da peça / Quantidade de peças 
+Processamento = Valor total da peça (Quantidade * Valor da Peça)
+Saída = Mostrar codigo peça com valor total
+---------------------------------------------------------------------------------------------
+
+2 - Calcule estoque medio de uma peça.
+
+Quantidade minima de peças = X
+Quantidade maxima de peças = Y
+Quantidade minima + Quantidade maxima 
+Resultado soma /(dividido) 2
+Resultado divisão 
+Fim
+----------------------------------------------------------------------------------------------
+
+3 - Teste de algoritmo com dados.
+
+Quantidade minima de peças = 1
+Quantidade maxima de peças = 100
+Quantidade minima (1) + Quantidade maxima (100) 
+Resultado (101) / 2
+Resultado Final (50,5) 
+Fim
+-----------------------------------------------------------------------------------------------
+
+4 - Faça um algoritmo que peça 2 numeros e imprima a soma.
+
+Dados de Entrada = Valor A e Valor B
+Processamento = Valor A + Valor B 
+Saida = Imprimir resultado do processamento
+
+Valor A (5) + Valor B (7) 
+Soma = 12
+Imprimir soma 
+FIM 
+--------------------------------------------------------------------------------------------------
+
+5 - Faça Algoritmo que converta metros em centimentros.
+Dados de Entrada = Metros e Centimentros
+Processamento = Metros / Centimentros 
+Saida = Imprimir resultado processamento
+
+Metros 10m / Centimetros 100cm
+Divisão = 0,1cm
+Imprimir divisão 
+FIM
+---------------------------------------------------------------------------------------------------
+
+6 - Algoritmo ganho por hora e numero de horas trabalhadas por mes. Calculo do salario do referido mês.
+Dados de entrada = Ganho por hora e horas trabalhadas 
+Processamento = GH * HT
+Saida = Imprimir resultado processamento
+
+GP (R$7,80) * HT (176)
+Multiplicação = $1372,80
+Saída = Imprimir Multiplicação
+FIM
+
+----------------------------------------------------------------------------------------------------------------------------
+
+7 - Calculo de peso ideal.
+Dados de Entrada = Altura X e 72.7
+Processamento = (Altura * 72.7) - 58
+Saída = Imprimir processamento
+
+72,7 * Altura (1,80) 
+Multiplicação = 131,04 
+Resultado Multiplicação - 58
+131,04 - 58
+Resultado final = 73,04
+Saida = Resultado final 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

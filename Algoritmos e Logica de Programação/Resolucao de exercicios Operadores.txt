@@ -1,0 +1,23 @@
+Sabendo que a=3 , b=7 e c=4, informe se as expressões abaixo são verdadeiras ou falsas:
+
+A) (a+c) > b = Falso
+
+B) b >= (a+2) = Verdadeiro 
+
+C) c == (b-a) = Verdadeiro 
+
+D) (b+a) <= c = Falso
+
+E) (c+a) > b = Falso 
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Sabendo que a=5 , b=4 , c=3 e d=6, informe se as expressões abaixo são verdadeiras ou falsas:
+
+A) (a > c) AND (c <= d) = Verdadeiro 
+
+B) (a + b) > 10 OR (a + b) == (c + d) = Verdadeira 
+
+C) (a >= c) AND (d >= c) = Verdadeiro 
+
+---------------------------------------------------------------------------------------------------------------------------

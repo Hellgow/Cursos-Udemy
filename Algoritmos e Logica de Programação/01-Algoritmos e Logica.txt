@@ -1,0 +1,178 @@
+1-  **Lógica** 
+
+O que é Logica ? Lógica de programação é o modo como se escreve um programa de computador, um algoritmo. Um algoritmo é uma sequência de passos para se executar uma função. Um exemplo de algoritmo, fora da computação, é uma receita de bolo. Na receita, devem-se seguir os passos para o bolo ficar pronto e sem nenhum problema.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2 - **Sequencia Logica.**
+
+O que é Sequencia Logica? Sequência Lógica, trata-se de uma sequência lógica é denominada algoritmo. Então podemos dizer em linguagem mais coloquial, que um algoritmo é uma sequência de passos para atingir um determinado objetivo. Como podemos ver a lógica de programação trata basicamente de construir algoritmos que serão transformados em programas de computador.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3 - **Instruções Logicas.**
+
+O que seria? Um conjunto de regras ou normas definidas para realização de algo.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4 - **Algoritmos.**
+
+O que é Algoritmo? Algoritmo é uma **sequência de passos utilizados para resolver um problema**. O Algoritmo pode ser aplicado em diversas situações, como um passo passo de uma receita ou a ordem em que uma fórmula matemática deve ser resolvida. Na programação, o algoritmo é a base de todo estudo de programação
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5 - **Pseudocódigos** 
+
+Essa é uma forma “genérica” de escrever um algoritmo. Ou seja: utiliza uma linguagem simples, sem que exista a necessidade de conhecimento da sintaxe de linguagens de programação. O pseudocódigo também é conhecido no Brasil como Portugol - justamente por ser desenvolvido em português, mas não existe apenas o Portugol, há outras opções. Consiste então, basicamente, em escrever a partir de regras predefinidas, os passos a serem seguidos - está aí então o algoritmo. De modo geral, o objetivo é desenvolver um código que se aproxime do padrão visto em linguagens como C#, Javascript, Python ou Java.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6 - **Constantes**
+
+Valor fixo que não se modifica ao longo do tempo durante a execução de um programa.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7 - **Variáveis** 
+
+Elemento da programação que possui um nome, um tipo de dado e um valor. O valor de uma variável pode variar durante a execução de um programa.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+8 - **Tipos de Dados.**
+
+Constantes e Variáveis possuem um nome, um tipo de dado e um valor.  Basicamente, podemos ter constantes e variáveis de quatro tipos: Numéricas - Caracteres - Alfanuméricas - Logicas 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9 - **Operadores Aritméticos.**
+
+Os operadores Aritméticos são utilizados para realizar operações aritméticas. Além da adição, subtração, multiplicação e divisão, podemos utilizar ainda o operador para exponenciação. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+10 - **Operadores Relacionais**
+
+Os operadores relacionais são utilizados para comparar valores. Estes operadores retornam valores lógicos (Verdadeiro ou falso / true or false)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+11 - **Operadores Lógicos** 
+
+Os operadores lógicos são utilizados para combinar resultados de expressões, retornando se o resultado final é verdadeiro ou falso / true or false.
+
+​				Uma expressão AND é verdadeira se todas as condições forem verdadeiras.
+
+​				Uma expressão OR é verdadeira se pelo menos uma condição for verdadeira.
+
+​				Uma expressão NOT inverte o valor da expressão ou condição, se verdadeira inverte para false e vice versa.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+12 - **Estruturas de decisão (Operações lógicas)**
+
+Operações Logicas são utilizadas a todo momento nos nossos codigos ou algoritmos. Utilizamos sempre que precisamos tomar decisões. Num algoritmo ou programa, toda decisão terá sempre como resposta o resultado verdadeiro ou falso.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+13 - **Estrutura de decisão** 
+
+Uma estrutura de decisão é só **um comando capaz de executar um teste** e, dependendo da resposta deste, que poderá ser verdadeiro ou falso, ele pode provocar um desvio no fluxo de execução do código. Parece complicado, mas é extremamente simples.
+
+O conceito de **Estrutura de Decisão** é talvez um dos mais intuitivos de todos. Ele literalmente resolve problemas em que **requer uma decisão**.
+
+Vamos a um exemplo. Veremos como essa decisão pode ser programada e entenderemos o que o programa está fazendo quando é executado.
+
+Imagine que desejamos criar um aplicativo que determine se um usuário deve trazer um guarda-chuva em sua mochila.
+
+Se a previsão do tempo indicar que vai chover, pedimos ao usuário que traga um guarda-chuva. Caso contrário, diremos ao usuário para não trazer um guarda-chuva. Dessa forma, vamos pensar em como esse tipo de problema pode ser programado. Confira o [algoritmo](https://programadoresbrasil.com.br/2021/01/iniciantes-o-que-e-um-algoritmo-entenda/) abaixo:
+
+1. **Início do Programa**
+2. Se a previsão indicar chuva:
+   1. **Pegar guarda chuva e colocar na mochila**
+3. Se não:
+   1. **Sair sem guarda chuva**
+
+
+
+##### As estruturas de decisão obedecem a um formato que é comum na Programação:
+
+1. Se a condição A for verdade:
+   1. **Faça isso**
+2. Caso contrário, ou seja, a condição A for falsa:
+   1. **Faça isso**
+
+Além disso, é possível ainda inserir mais uma decisão na mesma estrutura. Confira:
+
+1. Se a condição A for verdade:
+
+   1. **Faça isso**
+
+2. Se não se a condição B for verdade:
+
+   1. **Faça isso**
+
+3. Caso contrário, ou seja, a condição A e a condição B forem falsas:
+
+   1. **Faça isso**
+
+   -----------------------------------------------------------------------------------------------------------------------------------------------------
+
+   #### 14 - **Comandos de decisão.**
+
+   Os comandos de decisão ou desvio fazem parte das técnicas de programação que conduzem a estruturas de programas que não são totalmente seqüenciais. Com as instruções de SALTO ou DESVIO pode-se fazer com que o programa proceda de uma ou outra maneira, de acordo com as decisões lógicas tomadas em função dos dados ou resultados anteriores. As principais estruturas de decisão são: “Se Então”, “Se então Senão” e “Caso Selecione”.
+
+   
+
+   **SE ENTÃO /  IF … THEN**
+   A estrutura de decisão “SE/IF” normalmente vem acompanhada de um comando, ou seja, se determinada condição for satisfeita pelo comando SE/IF então execute determinado comando.
+
+   
+
+   Imagine um algoritmo que determinado aluno somente estará aprovado se sua média for maior ou igual a 5.0, veja no exemplo de algoritmo como ficaria.
+
+   
+
+   ***SE MEDIA >= 5.0 ENTÃO ALUNO APROVADO***
+
+   
+
+   **SE ENTÃO SENÃO / IF … THEN … ELSE**
+
+   A estrutura de decisão “SE/ENTÃO/SENÃO”, funciona exatamente como a estrutura “SE”, com apenas uma diferença, em “SE” somente podemos executar comandos caso a condição seja verdadeira, diferente de “SE/SENÃO” pois sempre um comando será executado independente da condição, ou seja, caso a condição seja “verdadeira” o comando da condição será executado, caso contrário o comando da condição “falsa” será executado.
+
+   
+
+   Em algoritmo ficaria assim:
+
+   
+
+   SE MÉDIA >= 5.0 ENTÃO
+   ALUNO APROVADO
+   SENÃO
+     ALUNO REPROVADO*****
+
+   
+
+   **CASO SELECIONE / SELECT … CASE**
+   A estrutura de decisão CASO/SELECIONE é utilizada para testar, na condição, uma única expressão, que produz um resultado, ou, então, o valor de uma variável, em que está armazenado um determinado conteúdo. Compara-se, então, o resultado obtido no teste com os valores fornecidos em cada cláusula “Caso”.
+
+   No exemplo do diagrama de blocos abaixo, é recebido uma variável “Op” e testado seu conteúdo, caso uma das condições seja satisfeita, é atribuído para a variável Titulo a String “Opção X”, caso contrário é atribuído a string “Opção Errada”.
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+​	
+
